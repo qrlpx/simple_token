@@ -1,0 +1,9 @@
+[package]
+name = "simple_token"
+version = "0.0.0"
+authors = ["quizlx <tt-dev@mailbox.org>"]
+
+license = "CC0-1.0"
+
+tags = ["stable", "no_std"]
+
